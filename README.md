@@ -80,3 +80,8 @@ This reflects a **realistic imbalanced dataset**, common in intrusion detection.
 ```bash
 pip install scapy pandas scikit-learn joblib
 
+python siber_kalkan.py
+
+
+geliştirilebilir...
+
