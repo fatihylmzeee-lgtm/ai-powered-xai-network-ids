@@ -1,3 +1,7 @@
+The trained model file (.pkl) is excluded due to file size limits. Users can retrain the model using the dataset.
+
+
+
 # AI-Powered Real-Time XAI Network Intrusion Detection System
 
 A real-time **Explainable AI-based Network Intrusion Detection System (XAI-IDS)** built with **Python and Scapy**.  
